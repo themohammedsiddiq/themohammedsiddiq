@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **themohammedsiddiq/themohammedsiddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -109,12 +109,6 @@ Here are some ideas to get you started:
 
 
 
-Shaik-mohd-huzaifa/Shaik-mohd-huzaifa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 

@@ -1,15 +1,6 @@
-### Hi there 👋
 
 
-**themohammedsiddiq/themohammedsiddiq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...# Hi ! I'm Shaik😊
-
-![](https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/38fb42bbb4510b3ff92d75a5bff4793ffc7b6c08/Huzaifa%20Github%20Profile%20Gif.gif)
+![](https://en.bloggif.com/tmp/9f568fafbd4127739add9c937f539e3e/text.gif?1662044084)
 
 
 # <span>I Dare Say I Think</span>

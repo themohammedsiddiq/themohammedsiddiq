@@ -89,7 +89,7 @@
 
 
 <a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/instagram-48x48-1597574.png" alt="stalk"></a>
-<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/twitter-48x48-1597565.png" alt="stalk"></a>
+<a href=""><img style="width: 30px" src="https://github.com/Shaik-mohd-huzaifa/Shaik-mohd-huzaifa/blob/b828cc1717dca8a70b46c3682b5efe2e6ba5b666/LinkedIn -48x48-1597565.png" alt="stalk"></a>
 
 
 

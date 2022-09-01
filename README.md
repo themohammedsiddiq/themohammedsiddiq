@@ -1,9 +1,9 @@
 
 
-![](https://en.bloggif.com/tmp/9f568fafbd4127739add9c937f539e3e/text.gif?1662044084)
+<!-- ![](https://en.bloggif.com/tmp/9f568fafbd4127739add9c937f539e3e/text.gif?1662044084) -->
 
 
-# <span>I Dare Say I Think</span>
+# <span>I THINK I CAN DO</span>
 
 <span style="font-family: montserrat">Gonna be a _Full Stack Developer_ in a Few Months. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. If you fell that i am wrong or unaware of something related to my field please help me out. Other than coding and developing i am curious about outerspace bodies and rocket science. Trying to solve the everyday worldy problem in my fantasies. Finally part-time branding identity designer.</span> 
 

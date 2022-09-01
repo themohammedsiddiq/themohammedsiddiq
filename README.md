@@ -1,11 +1,11 @@
 
 
-<!-- ![](https://en.bloggif.com/tmp/9f568fafbd4127739add9c937f539e3e/text.gif?1662044084) -->
+![](https://cdn.dribbble.com/users/116207...) 
 
 
 # <span>I THINK I CAN DO</span>
 
-<span style="font-family: montserrat">Gonna be a _Full Stack Developer_ in a Few Months. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. If you fell that i am wrong or unaware of something related to my field please help me out. Other than coding and developing i am curious about outerspace bodies and rocket science. Trying to solve the everyday worldy problem in my fantasies. Finally part-time branding identity designer.</span> 
+<span style="font-family: montserrat">Gonna be a Cloud Data Engineer in  Months. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. If you fell that i am wrong or unaware of something related to my field please help me out. Other than coding and developing i am curious about outerspace bodies and rocket science. Trying to solve the everyday worldy problem in my fantasies. Finally part-time branding identity designer.</span> 
 
 # <span>Computer Jargons</span>
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)

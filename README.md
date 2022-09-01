@@ -5,13 +5,11 @@
 
 # <span>I THINK I CAN DO</span>
 
-<span style="font-family: montserrat">Gonna be a Cloud Data Engineer in  Months. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. If you fell that i am wrong or unaware of something related to my field please help me out. Other than coding and developing i am curious about outerspace bodies and rocket science. Trying to solve the everyday worldy problem in my fantasies. Finally part-time branding identity designer.</span> 
+<span style="font-family: montserrat">Gonna be a Cloud Data Engineer in couple of Months.I am curious about extracting the raw data, playing with the data and storing on to the cloud. Trying to improvise my technical knowledge by shredding every code in bit. I believe in Creating and inventing rather than grinding on the same stone. I am a learner and like to learn new stuff everyday. Other than coding and developing i play cricket.</span> 
 
-# <span>Computer Jargons</span>
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+# <span>Skills I have learnt </span>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JAVA](https://www.oracle.com/java/technologies/)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)

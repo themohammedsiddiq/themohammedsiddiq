@@ -1,7 +1,6 @@
-HI I AM SIDDIQ
+<span>HI, I AM SIDDIQ</span>
 
 ![](https://cdn.dribbble.com/users/116207...) 
-
 
 # <span>I THINK I CAN DO</span>
 
